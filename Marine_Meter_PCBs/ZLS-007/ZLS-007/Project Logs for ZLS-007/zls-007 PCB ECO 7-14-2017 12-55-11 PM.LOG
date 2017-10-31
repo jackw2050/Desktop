@@ -1,0 +1,10 @@
+Added Component: Designator=*(TO-3-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7165915"; VariantName = "[No Variations]"
+Added Component: Designator=*(TO-3-8)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "RSComponents"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "7165915"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=ZLS-007 Member=Component * PA12
+Added Member To Class: ClassName=ZLS-007 Member=Component * Edge 20

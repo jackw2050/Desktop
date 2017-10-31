@@ -1,0 +1,151 @@
+Added Component: Designator=U1(6-SMD Gull Wing)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Isolators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Min)"; Value = "20% @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "4N26SR2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40캜 ~ 100캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Transistor with Base"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "6-SMD, Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.546, 100=0.3918, 500=0.30084 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2956"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "6-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4N26SR2MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn On / Turn Off Time (Typ)"; Value = "2탎, 2탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation (Max)"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "1.18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Isolation"; Value = "4170Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=U2(6-SMD Gull Wing)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Isolators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Min)"; Value = "20% @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "4N26SR2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40캜 ~ 100캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Transistor with Base"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "6-SMD, Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.546, 100=0.3918, 500=0.30084 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2956"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "6-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4N26SR2MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn On / Turn Off Time (Typ)"; Value = "2탎, 2탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation (Max)"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "1.18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Isolation"; Value = "4170Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=U3(6-SMD Gull Wing)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Isolators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Min)"; Value = "20% @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "4N26SR2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40캜 ~ 100캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Transistor with Base"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "6-SMD, Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.546, 100=0.3918, 500=0.30084 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2956"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "6-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4N26SR2MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn On / Turn Off Time (Typ)"; Value = "2탎, 2탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation (Max)"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "1.18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Isolation"; Value = "4170Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Component: Designator=U4(6-SMD Gull Wing)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Isolators"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://www.fairchildsemi.com/datasheets/4N/4N25M.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current - Output / Channel"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Max)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Current Transfer Ratio (Min)"; Value = "20% @ 10mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Input Type"; Value = "DC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "ON Semiconductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "4N26SR2M"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40캜 ~ 100캜"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Output Type"; Value = "Transistor with Base"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "6-SMD, Gull Wing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Cut Tape (CT)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=0.7, 10=0.546, 100=0.3918, 500=0.30084 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rise / Fall Time (Typ)"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "2956"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "6-SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "4N26SR2MCT-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Turn On / Turn Off Time (Typ)"; Value = "2탎, 2탎"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Vce Saturation (Max)"; Value = "500mV"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Forward (Vf) (Typ)"; Value = "1.18V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Isolation"; Value = "4170Vrms"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Output (Max)"; Value = "30V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetD1_2 Pin=T1-2
+Added Pin To Net: NetName=OVA Pin=U1-2
+Added Pin To Net: NetName=OVA Pin=U2-4
+Added Pin To Net: NetName=OVA Pin=U2-6
+Added Pin To Net: NetName=OVA Pin=U3-4
+Added Pin To Net: NetName=OVA Pin=U3-6
+Added Pin To Net: NetName=R1_DIN Pin=U2-1
+Added Pin To Net: NetName=R1_DIN Pin=U6-10
+Added Net: Name=R1_DIN
+Added Pin To Net: NetName=R1_LDR Pin=U3-5
+Added Pin To Net: NetName=R1_LDR Pin=U7-5
+Added Net: Name=R1_LDR
+Added Pin To Net: NetName=R2_DIN Pin=U3-1
+Added Pin To Net: NetName=R2_DIN Pin=U6-11
+Added Net: Name=R2_DIN
+Added Pin To Net: NetName=Short_1 Pin=P6-1
+Added Pin To Net: NetName=Short_1 Pin=P6-4
+Added Pin To Net: NetName=Short_1 Pin=P6-6
+Added Net: Name=Short_1
+Added Pin To Net: NetName=Short_2 Pin=P6-7
+Added Pin To Net: NetName=Short_2 Pin=P6-8
+Added Net: Name=Short_2
+Added Pin To Net: NetName=T1_DIN Pin=U1-5
+Added Pin To Net: NetName=T1_DIN Pin=U7-3
+Added Net: Name=T1_DIN
+Added Pin To Net: NetName=T2_DIN Pin=U2-5
+Added Pin To Net: NetName=T2_DIN Pin=U7-4
+Added Net: Name=T2_DIN
+Added Pin To Net: NetName=T2_LDR Pin=U1-1
+Added Pin To Net: NetName=T2_LDR Pin=U6-6
+Added Net: Name=T2_LDR
+Added Member To Class: ClassName=ZLS-028 Member=Component U1 4N26
+Added Member To Class: ClassName=ZLS-028 Member=Component U2 4N26
+Added Member To Class: ClassName=ZLS-028 Member=Component U3 4N26
+Added Member To Class: ClassName=ZLS-028 Member=Component U4 4N26

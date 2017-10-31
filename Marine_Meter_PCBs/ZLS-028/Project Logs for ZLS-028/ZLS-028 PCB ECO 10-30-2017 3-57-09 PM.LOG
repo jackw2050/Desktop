@@ -1,0 +1,7 @@
+Change Component Footprint: Designator=P6 Old Footprint=HDR2X5 New Footprint=STMM-105-01-G-D
+Change Component Comment : Designator=P6 Old Comment=Header 5X2 New Comment=STMM-105-01-G-D
+Change component parameters: Designator = "P6"; Footprint = "STMM-105-01-G-D"; UniqueID = "\UTCNUISX"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=*(STMM-105-01-G-D)
+Add component. Clean all parameters for all variants
+Added Member To Class: ClassName=ZLS-028 Member=Component * STMM-105-01-G-D

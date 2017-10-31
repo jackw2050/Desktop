@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=P7 Old Footprint=HDR2X13 New Footprint=STMM-113-01-G-D
+Change Component Comment : Designator=P7 Old Comment=Header 13X2 New Comment=2.00 mm Shrouded Terminal Strip, Cable Mate
+Change component parameters: Designator = "P7"; Footprint = "STMM-113-01-G-D"; UniqueID = "\HMWATYXC"
+Change component parameters. Clean all parameters for all variants

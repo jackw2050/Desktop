@@ -1,0 +1,5 @@
+Added Component: Designator=U?(TUNS300F28)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "1776-1801-ND"; VariantName = "[No Variations]"
+Added Class: Name=PCI short card universal - 32 BIT

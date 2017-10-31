@@ -1,0 +1,36 @@
+Change component parameters: Designator = "U6"; Footprint = "MAX250ESD+"; UniqueID = "\FDWIGKIA"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Supplier Part Number 1"; Value = "MAX250ESD+-ND"; VariantName = "[No Variations]"
+Added Component: Designator=U5(MAXM-S16+5_L)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Category"; Value = "Integrated Circuits (ICs)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "https://datasheets.maximintegrated.com/en/ds/MAX220-MAX249.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Data Rate"; Value = "200kbps"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Duplex"; Value = "Full"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Maxim Integrated"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part Number"; Value = "MAX232AESE+"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mounting Type"; Value = "Surface Mount"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Number of Drivers/Receivers"; Value = "2/2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Operating Temperature"; Value = "-40°C ~ 85°C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Package / Case"; Value = "16-SOIC (0.154", 3.90mm Width)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Packaging"; Value = "Tube"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Status"; Value = "Active"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Pricing 1"; Value = "1=4.85, 10=4.608, 25=4.3, 50=4.223 (USD)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Protocol"; Value = "RS232"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RoHS"; Value = "RoHS Compliant"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Stock 1"; Value = "1445"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Device Package"; Value = "16-SOIC"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "MAX232AESE+-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Transceiver"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage - Supply"; Value = "4.5 V ~ 5.5 V"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=NetP6_3 Pin=U5-8
+Added Pin To Net: NetName=R2OUT Pin=U5-9
+Added Pin To Net: NetName=OVA Pin=U5-10
+Added Pin To Net: NetName=T1IN Pin=U5-11
+Added Pin To Net: NetName=OVA Pin=U5-13
+Added Pin To Net: NetName=NetP6_2 Pin=U5-14
+Added Pin To Net: NetName=OVA Pin=U5-15
+Added Member To Class: ClassName=ZLS-028 Member=Component U5 MAX232AESE+

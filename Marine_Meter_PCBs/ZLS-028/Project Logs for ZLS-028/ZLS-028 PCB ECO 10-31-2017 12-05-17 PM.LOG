@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=NetD1_2 Pin=T1-1
+Removed Pin From Net: NetName=VCC Pin=T1-3
+Removed Pin From Net: NetName=XFMR_TAP Pin=T1-4
+Added Pin To Net: NetName=VCC Pin=T1-1
+Added Pin To Net: NetName=XFMR_TAP Pin=T1-2
+Added Pin To Net: NetName=NetD1_2 Pin=T1-6
+Added Pin To Net: NetName=NetT1_4 Pin=T1-4
+Added Pin To Net: NetName=NetT1_4 Pin=U6-13
+Added Net: Name=NetT1_4
