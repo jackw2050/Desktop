@@ -1,0 +1,22 @@
+ zh_divider, 10.977      
+ fb_zh_divider, 10
+ lid_thermistor_divider,1
+ p12v_divider ,6
+ p5v_divider, 2
+ p3p3v_divider,1
+ battery_thermistor_divider,6
+ batt_v_divider,6
+ beam_divider,1
+ m5v_divider,-2
+ zp_divider,10
+ gearbox_thermistor_divider,1
+ conning_tower_thermistor_divider,1
+ arrestment_thermistor_divider,1
+ meter_thermistor_1_divider,1
+ meter_thermistor_2_divider,1
+ crossZero,2.00
+ crossMin,.75
+ crossMax,4.00
+ longZero,2.00
+ longMin,.75
+ longMax,4.00

@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source files">
+      <UniqueIdentifier>{c6ebdb33-82a0-422c-9407-c5caad1cce71}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header files">
+      <UniqueIdentifier>{821eb3db-f53a-4d28-9785-94f82498faf1}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource files">
+      <UniqueIdentifier>{13e4c667-a683-4997-8e3d-63c35bb3fe20}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav</Extensions>
+    </Filter>
+    <Filter Include="VisualGDB settings">
+      <UniqueIdentifier>{edd8a53e-14b1-43a8-8f3c-d8b23b521fb7}</UniqueIdentifier>
+      <Extensions>vgdbsettings</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Yukitora.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="BusDevice.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="GPIO.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="PWM.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="SPIDevice.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>Source files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Yukitora-Debug.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <None Include="Yukitora-Release.vgdbsettings">
+      <Filter>VisualGDB settings</Filter>
+    </None>
+    <None Include="adc_divider.csv">
+      <Filter>Source files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="BusDevice.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="GPIO.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="PWM.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="SPIDevice.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>Source files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
